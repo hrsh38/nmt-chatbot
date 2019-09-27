@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Michael Waespy"
+    },
+    {
+      "name": "Harsh Patel"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1477526359432,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Waespy",
+      "timestamp_ms": 1477526334929,
+      "content": "Are you with somith and Malay right now?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Waespy",
+      "timestamp_ms": 1477526135229,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1477526041852,
+      "content": "That's the same thing Somith is getting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1477526034372,
+      "content": "Okay thanks. Somith told me to try chicken katsu curry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Waespy",
+      "timestamp_ms": 1477526013466,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1477526006684,
+      "content": "Could you add my order in too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Waespy",
+      "timestamp_ms": 1477525996339,
+      "content": "Not yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1477525977728,
+      "content": "Hey did u order already?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1476483763592,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Michael Waespy",
+      "timestamp_ms": 1476483451690,
+      "content": "https://www.spotify.com/us/family/redeem/?token=SPFLdwzBTMBGr",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael Waespy",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MichaelWaespy_ItLFe6sehQ"
+}

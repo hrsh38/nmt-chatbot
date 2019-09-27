@@ -1,0 +1,429 @@
+{
+  "participants": [
+    {
+      "name": "Sanjana Madan"
+    },
+    {
+      "name": "Harsh Patel"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1548731954460,
+      "content": "Tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1548731903541,
+      "content": "Lmao ya I wonder why they did that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1548731888175,
+      "content": "Ya ofc!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1548731874442,
+      "content": "Yaa, I was surprised I saw yours cuz I thought u graduated",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1548731858142,
+      "content": "I completely forgot about thjs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1548731841382,
+      "content": "Can I write on the back of it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1548731800823,
+      "content": "Maybe one day I might stop by \nBut v unlikely lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1548731792575,
+      "content": "And yup I graduated akpsi lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1548731786971,
+      "content": "Yes! I didn\u00e2\u0080\u0099t even know they made me a name tag lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1548731713175,
+      "content": "Wait r u gonna come at all or did you graduate from akpsi?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1548731697669,
+      "content": "Can I use your name tag then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1548731688963,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1548731663975,
+      "content": "Hi!! Noo lolol \nAre u??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1548731625663,
+      "content": "Hey are u coming to rush",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499115352766,
+      "content": "Lol yes got it!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499115056861,
+      "content": "I sent u a venmo. I hope it's the right one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499114758231,
+      "content": "I have no idea lol probs like 3 dollars idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499114385569,
+      "content": "Do you know how much the macchiato was?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499108117057,
+      "content": "I forgot this Starbucks existed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499108073625,
+      "content": "Same walking in now!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499108045873,
+      "content": "I'm here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499107131228,
+      "content": "Lol it's fine lmk when ur at target!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499106982240,
+      "content": "I might be a little late cuz I had to go to the bank",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499106575692,
+      "content": "Okay!! I'm heading out now!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499106540197,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499106110325,
+      "content": "and we are meeting there??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499106095752,
+      "content": "Target!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499106058878,
+      "content": "I'll leave in like 10, what's the closest Starbucks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499101070066,
+      "content": "Ya down!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499101013152,
+      "content": "Tryna go to Starbucks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499100997756,
+      "content": "Around 2:30 works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499100906497,
+      "content": "Like around 2/2:30??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499100878918,
+      "content": "That's so true. Yea I'm down what time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499100577977,
+      "content": "It's too nice of a day to watch Netflix",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499100567654,
+      "content": "lol wanna go for coffee or a walk or something later I literally have to get out of the house lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1499100265016,
+      "content": "Yea I am what's up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1499100171447,
+      "content": "Hi are ya in sb today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498575936345,
+      "content": "it's ok no problem!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498575930807,
+      "content": "Nah it's an apartment building! It's like a 2 min walk from senior lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1498575848461,
+      "content": "Bookend? Is that a street?  also I went to my house again and idt any table would fit \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad thanks for the  info though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498419338562,
+      "content": "haha yeah!! Bookend!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1498418060841,
+      "content": "are u living on campus next year too?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1498418057029,
+      "content": "ikr, im super excited",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498415033542,
+      "content": "omg that's so close!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1498414823060,
+      "content": "68 senior st",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1498414818119,
+      "content": "I'm living on Senior st",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498412363904,
+      "content": "haha ohh gotchya where ya living?? \nLmao okie lmk tho!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1498412343175,
+      "content": "Yea my rooms kinda small",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1498412336865,
+      "content": "Off campus house",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498412326859,
+      "content": "lol are u living on campus next year?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1498412303594,
+      "content": "Shit that might be a lil too big",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498412093811,
+      "content": "Hey so that's the desk!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498412089846,
+      "photos": [
+        {
+          "uri": "messages/inbox/SanjanaMadan_abBF1BUgtQ/photos/19496065_1710018089025891_1762744488_o_1710018089025891.jpg",
+          "creation_timestamp": 1498412089
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498405321781,
+      "content": "25!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1498405062384,
+      "content": "LOL ite np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498404978849,
+      "content": "Lol I'll send it when I get back home I literally just left haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498404932792,
+      "content": "I can show u a pic hold up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1498404923752,
+      "content": "hey it's a white desk is that ok?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1498404843373,
+      "content": "Hey how much for the desk?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1492989419776,
+      "content": "Wya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1492989412326,
+      "content": "I was gonna go to CA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1492989408126,
+      "content": "lol I'm walking back to LSC rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1492989399460,
+      "content": "Yea sure. Where r u gonna be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1492989376653,
+      "content": "would u be able to give me a ride home I feel like death lmao I need food/meds lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1492989340474,
+      "content": "Yea prolly in like an hour or two",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1492989318171,
+      "content": "Anytime soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sanjana Madan",
+      "timestamp_ms": 1492989315473,
+      "content": "Hi sos question are u gonna go back to SB today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Harsh Patel",
+      "timestamp_ms": 1491815511816,
+      "content": "Say hi to your new Facebook friend, Sanjana.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Sanjana Madan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/SanjanaMadan_abBF1BUgtQ"
+}

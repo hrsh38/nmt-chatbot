@@ -1,4 +1,4 @@
-let input = require(`./messages/message_${2}.json`);
+let input = require(`./messagetext/${2}.json`);
 const fs = require("fs");
 
 let sender = [];
